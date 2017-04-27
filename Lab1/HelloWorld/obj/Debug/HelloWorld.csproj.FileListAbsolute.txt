@@ -1,0 +1,9 @@
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Теория программирования\Lab1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Теория программирования\Lab1\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Теория программирования\Lab1\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Теория программирования\Lab1\HelloWorld\obj\Debug\HelloWorld.pdb
