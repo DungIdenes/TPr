@@ -1,0 +1,6 @@
+E:\Теория программирования\Lab5\Ex1\bin\Debug\Ex1.exe.config
+E:\Теория программирования\Lab5\Ex1\bin\Debug\Ex1.exe
+E:\Теория программирования\Lab5\Ex1\bin\Debug\Ex1.pdb
+E:\Теория программирования\Lab5\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab5\Ex1\obj\Debug\Ex1.exe
+E:\Теория программирования\Lab5\Ex1\obj\Debug\Ex1.pdb
