@@ -1,0 +1,6 @@
+E:\Теория программирования\Lab2\Multiplication\bin\Debug\Multiplication.exe.config
+E:\Теория программирования\Lab2\Multiplication\obj\Debug\Multiplication.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab2\Multiplication\bin\Debug\Multiplication.exe
+E:\Теория программирования\Lab2\Multiplication\bin\Debug\Multiplication.pdb
+E:\Теория программирования\Lab2\Multiplication\obj\Debug\Multiplication.exe
+E:\Теория программирования\Lab2\Multiplication\obj\Debug\Multiplication.pdb

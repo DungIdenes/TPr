@@ -1,0 +1,9 @@
+E:\Теория программирования\Lab2\MultiplicationApp\bin\Debug\MultiplicationApp.exe.config
+E:\Теория программирования\Lab2\MultiplicationApp\bin\Debug\MultiplicationApp.exe
+E:\Теория программирования\Lab2\MultiplicationApp\bin\Debug\MultiplicationApp.pdb
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.Form1.resources
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.Properties.Resources.resources
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.csproj.GenerateResource.Cache
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.exe
+E:\Теория программирования\Lab2\MultiplicationApp\obj\Debug\MultiplicationApp.pdb
