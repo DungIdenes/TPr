@@ -1,0 +1,2 @@
+E:\Теория программирования\Lab4\Variables\bin\Debug\Variables.exe.config
+E:\Теория программирования\Lab4\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
