@@ -1,0 +1,6 @@
+E:\Теория программирования\Lab6\Hierarchy\bin\Debug\Hierarchy.exe.config
+E:\Теория программирования\Lab6\Hierarchy\obj\Debug\Hierarchy.csprojResolveAssemblyReference.cache
+E:\Теория программирования\Lab6\Hierarchy\bin\Debug\Hierarchy.exe
+E:\Теория программирования\Lab6\Hierarchy\bin\Debug\Hierarchy.pdb
+E:\Теория программирования\Lab6\Hierarchy\obj\Debug\Hierarchy.exe
+E:\Теория программирования\Lab6\Hierarchy\obj\Debug\Hierarchy.pdb
